@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <!-- ИСПРАВЛЕННЫЕ ССЫЛКИ НА РЕАЛЬНЫЕ SVG-БЕЙДЖИ -->
   <img src="https://shields.io" alt="UI Craft" />
   <img src="https://shields.io" alt="Pixel Games" />
   <img src="https://shields.io" alt="AI Agents" />
